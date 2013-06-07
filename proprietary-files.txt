@@ -361,9 +361,6 @@ usr/share/alsa/pcm/surround50.conf
 usr/share/alsa/pcm/surround41.conf
 usr/share/alsa/pcm/default.conf
 usr/share/alsa/pcm/surround51.conf
-usr/lib/alsa-lib/libasound_module_ctl_bluetooth.so
-usr/lib/alsa-lib/libasound_module_pcm_steiop.so
-usr/lib/alsa-lib/libasound_module_pcm_bluetooth.so
 lib/tee/libasb_ta.ssw
 lib/tee/smcl_ta_8500bx_secure.ssw
 lib/tee/suntory_core_ta.ssw
